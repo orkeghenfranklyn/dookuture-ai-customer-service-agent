@@ -16,7 +16,7 @@
   <img src="screenshots/01-workflow-overview.png" alt="Workflow overview" width="85%">
 </p>
 ## Live demo
-**[Open the demo page](https://orkeghenfranklyn.github.io/dookuture-faq-chatbot/)**
+**[Open the demo page]**(https://orkeghenfranklyn.github.io/dookuture-faq-chatbot/)
 
 The chat is switched on only during demos to protect free-tier quotas. If it's offline, see the screenshots above.
 
