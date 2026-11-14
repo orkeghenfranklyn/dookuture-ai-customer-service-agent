@@ -15,6 +15,10 @@
 <p align="center">
   <img src="screenshots/01-workflow-overview.png" alt="Workflow overview" width="85%">
 </p>
+## Live demo
+**[Open the demo page](https://orkeghenfranklyn.github.io/dookuture-faq-chatbot/)**
+
+The chat is switched on only during demos to protect free-tier quotas. If it's offline, see the screenshots above.
 
 > **Sample project.** Dookuture is a fictional Nigerian clothing brand, and all business data is invented. The engineering is real.
 
@@ -139,8 +143,8 @@ Full table with expected behavior: [`tests/test-cases.md`](tests/test-cases.md)
 - [x] Conversation memory
 - [x] Lead capture to Google Sheets
 - [x] 15-question test suite
-- [ ] Instant owner alerts for new leads
-- [ ] Website chat widget
+- [x] Instant owner alerts for new leads
+- [x] Website chat widget
 - [ ] WhatsApp channel
 - [ ] Persistent memory (Postgres or Redis)
 - [ ] Voice agent version for appointment booking
