@@ -62,6 +62,12 @@ The chat is switched on only during demos to protect free-tier quotas. If it's o
 
 ![Leads sheet](screenshots/07-tool-execution.png)
 
+**Owner alert: a new lead triggers an instant email**
+
+| New lead lands in the sheet | Owner receives the alert |
+|---|---|
+| ![Lead row](screenshots/09-owner-alert-sheet.png) | ![Alert email](screenshots/09-owner-alert-email.png) |
+
 ---
 
 ## How it works
