@@ -139,7 +139,7 @@ Full table with expected behavior: [`tests/test-cases.md`](tests/test-cases.md)
 
 - **Free-tier constraints.** The Gemini free tier has small daily quotas and may use data to improve Google's products. Real customer traffic needs a paid tier.
 - **Temporary memory.** Simple Memory is lost when the workflow restarts. A production version would use Postgres or Redis.
-- **Test chat only.** It runs in n8n's built-in chat. It is not yet deployed to a website or WhatsApp.
+- **Demo-only deployment.** The chat widget runs on a GitHub Pages demo page and is switched on only during demos. It is not yet deployed to a client's website or WhatsApp.
 - **No live data.** It cannot check stock or order status. A fuller version would query a product database.
 - **Passive handoff.** Leads go to a sheet. A fuller version would alert the owner instantly by email or WhatsApp.
 
