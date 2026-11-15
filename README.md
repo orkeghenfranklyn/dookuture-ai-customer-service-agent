@@ -68,6 +68,12 @@ The chat is switched on only during demos to protect free-tier quotas. If it's o
 |---|---|
 | ![Lead row](screenshots/09-owner-alert-sheet.png) | ![Alert email](screenshots/09-owner-alert-email.png) |
 
+**Telegram channel: the same agent inside a messaging app**
+
+| Conversation | Workflow |
+|---|---|
+| ![Telegram chat](screenshots/12-telegram-chat.png) | ![Telegram workflow](screenshots/13-telegram-workflow.png) |
+
 ---
 
 ## How it works
@@ -142,6 +148,7 @@ Full table with expected behavior: [`tests/test-cases.md`](tests/test-cases.md)
 - **Demo-only deployment.** The chat widget runs on a GitHub Pages demo page and is switched on only during demos. It is not yet deployed to a client's website or WhatsApp.
 - **No live data.** It cannot check stock or order status. A fuller version would query a product database.
 - **Passive handoff.** Leads go to a sheet. A fuller version would alert the owner instantly by email or WhatsApp.
+- - **No WhatsApp yet.** WhatsApp's API requires a Meta developer account. The Telegram build shows the same pattern: swap the trigger and send nodes, keep the agent.
 
 ## Roadmap
 
@@ -151,6 +158,7 @@ Full table with expected behavior: [`tests/test-cases.md`](tests/test-cases.md)
 - [x] 15-question test suite
 - [x] Instant owner alerts for new leads
 - [x] Website chat widget
+- [x] Telegram channel (same agent, memory and lead capture)
 - [ ] WhatsApp channel
 - [ ] Persistent memory (Postgres or Redis)
 - [ ] Voice agent version for appointment booking
