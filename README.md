@@ -1,4 +1,4 @@
-<h1 align="center">Dookuture FAQ Agent</h1>
+<h1 align="center">Dookuture AI Customer-Service Agent</h1>
 
 <p align="center">
   <b>A customer-service AI agent that answers only from approved facts, hands off to a human when it can't, and captures every lead.</b>
