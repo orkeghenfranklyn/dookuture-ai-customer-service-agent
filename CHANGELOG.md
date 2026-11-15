@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.4 (Phase 3): Telegram channel
+- Added Telegram version of the agent: Telegram Trigger, same prompt, memory and lead capture, reply via Telegram node
+- Session memory keyed to the Telegram chat ID
+- Documented that WhatsApp needs a Meta developer account; the same pattern applies
+  
 ## v1.3 (Phase 2): Website widget
 - Switched Chat Trigger to Embedded mode with restricted CORS origin
 - Added GitHub Pages demo page with embedded n8n chat widget
