@@ -177,7 +177,7 @@ A caller speaks to a Vapi assistant, which collects a name, phone number, date, 
 
 ## Run it yourself
 
-Step-by-step import and credential setup: [workflow/WORKFLOWS.md](workflow/WORKFLOWS.md)
+Step-by-step import and credential setup: [Workflow documentation](workflow/README.md)
 
 ## Repository structure
 
