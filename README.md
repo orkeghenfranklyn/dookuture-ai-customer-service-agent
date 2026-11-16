@@ -1,5 +1,4 @@
-ttps://img.shields.io/badge/LLM-Google%20Gemini-4285F4" alt="Google Gemini">
-  <img src="https://im<h1 align="center">Dookuture AI Customer-Service Agent</h1>
+<h1 align="center">Dookuture AI Customer-Service Agent</h1>
 
 <p align="center">
   <b>One AI agent on three channels: web chat, Telegram and voice. It answers only from approved facts, hands off to a human when it can't, and logs every lead and booking.</b>
@@ -9,7 +8,7 @@ ttps://img.shields.io/badge/LLM-Google%20Gemini-4285F4" alt="Google Gemini">
   <img src="https://img.shields.io/badge/Chatbot%20tests-15%2F15%20passed-brightgreen" alt="Chatbot tests: 15/15 passed">
   <img src="https://img.shields.io/badge/Channels-Web%20%7C%20Telegram%20%7C%20Voice-blue" alt="Channels: web, Telegram, voice">
   <img src="https://img.shields.io/badge/n8n-workflows-EA4B71" alt="n8n">
-  <img src="hg.shields.io/badge/Voice-Vapi-black" alt="Vapi">
+  <img src="https://img.shields.io/badge/Voice-Vapi-black" alt="Vapi">
   <img src="https://img.shields.io/badge/Built%20on-Android%20tablet-lightgrey" alt="Built on an Android tablet">
 </p>
 
@@ -29,9 +28,9 @@ The chat is switched on only during demos to protect free-tier quotas. If it doe
 
 | Video | What it shows | Link |
 |---|---|---|
-| Web chat and lead capture | Questions answered from facts, memory, a lead saved to Google Sheets and an email alert | [Watch](https://youtu.be/REPLACE-ME) |
-| Voice booking call | A caller books a measurement appointment by voice and the row lands in Google Sheets | [Watch](https://youtu.be/REPLACE-ME) |
-| Telegram channel | The same agent answering inside Telegram | [Watch](https://youtu.be/REPLACE-ME) |
+| Web chat and lead capture | Questions answered from facts, memory, a lead saved to Google Sheets and an email alert | [Watch](https://youtu.be/Z1-JhnGCoCY?si=XPiPuE69NZw9fBMt) |
+| Voice booking call | A caller books a measurement appointment by voice and the row lands in Google Sheets | [Watch](https://youtube.com/shorts/P6NgoTDETSQ?si=4tVCun-avPgriI3v) |
+
 
 ## At a glance
 
@@ -71,9 +70,9 @@ flowchart LR
 
 ## See it work
 
-| Accurate answer | Prompt-injection refusal |
+| Accurate answer | 
 |---|---|
-| ![Price question](screenshots/02-price-question.png) | ![Injection refusal](screenshots/03-prompt-injection-refusal.png) |
+| ![Price question](screenshots/02-price-question.png) | 
 
 | Fallback, then lead capture | Conversation memory |
 |---|---|
@@ -99,9 +98,9 @@ A caller speaks to a Vapi assistant, which collects a name, phone number, date, 
 |---|---|
 | ![Voice booking workflow](screenshots/14-voice-booking-workflow.png) | ![Booking row](screenshots/15-voice-booking-sheet.png) |
 
-| n8n execution #68: succeeded in 3.4 s | Call transcript with the tool call completing |
+| Call transcript with the tool call completing |*
 |---|---|
-| ![n8n execution](screenshots/16-voice-n8n-execution.png) | ![Call transcript](screenshots/17-voice-call-transcript.png) |
+| ![Call transcript](screenshots/17-voice-call-transcript.png) |
 
 | Call cost: $0.27 for 3m33s | Latency: 21 turns, 2.2 s average |
 |---|---|
@@ -199,6 +198,6 @@ I'm Franklyn. I build AI agents and automations for small businesses. I built th
 
 **Open to freelance projects and AI automation roles.**
 
-[GitHub](https://github.com/orkeghenfranklyn) · [LinkedIn](https://linkedin.com/in/YOUR-PROFILE)
+[GitHub](https://github.com/orkeghenfranklyn) · [LinkedIn](www.linkedin.com/in/franklyn-orkeghen-34bb40441e) · [Email](orkeghenfranklyn@gmail.com)
 
 <p align="center"><sub>Sample brand and fictional data. Built with n8n, Google Gemini and Vapi.</sub></p>
