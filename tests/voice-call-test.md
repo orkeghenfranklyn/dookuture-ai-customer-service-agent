@@ -58,7 +58,25 @@ One live Vapi web call on 15 November 2026, using the Dookuture Booking Assistan
 | 5 | No availability check | Bookings are logged as requests and the team confirms by phone | By design |
 
 ## Evidence
-- n8n execution list showing execution #68 and the four green nodes: `screenshots/16-voice-n8n-execution.png`, `screenshots/14-voice-booking-workflow.png`
-- Booking row in Google Sheets: `screenshots/15-voice-booking-sheet.png`
-- Call transcript with the tool call: `screenshots/17-voice-call-transcript.png`
-- Vapi call log, cost and latency: `screenshots/18-voice-call-log.png`, `screenshots/19-voice-call-cost.png`, `screenshots/20-voice-call-latency.png`
+
+**Booking pipeline**
+
+| Workflow in n8n | Execution #68 (succeeded in 3.379 s) |
+|---|---|
+| ![Voice booking workflow](../screenshots/14-voice-booking-workflow.png) | ![n8n execution](../screenshots/16-voice-n8n-execution.png) |
+
+**The call itself**
+
+| Transcript, with `Book Appointment` completing | Booking row in Google Sheets |
+|---|---|
+| ![Call transcript](../screenshots/17-voice-call-transcript.png) | ![Booking row](../screenshots/15-voice-booking-sheet.png) |
+
+**Call metrics**
+
+| Call log | Cost breakdown |
+|---|---|
+| ![Call log](../screenshots/18-voice-call-log.png) | ![Call cost](../screenshots/19-voice-call-cost.png) |
+
+| Latency per turn |
+|---|
+| ![Latency summary](../screenshots/20-voice-call-latency.png) |
