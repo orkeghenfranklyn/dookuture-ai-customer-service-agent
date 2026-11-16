@@ -198,6 +198,11 @@ I'm Franklyn. I build AI agents and automations for small businesses. I built th
 
 **Open to freelance projects and AI automation roles.**
 
-[GitHub](https://github.com/orkeghenfranklyn) · [LinkedIn](www.linkedin.com/in/franklyn-orkeghen-34bb40441e) · [Email](orkeghenfranklyn@gmail.com)
+### Connect with me
+
+- **GitHub:** [github.com/orkeghenfranklyn](https://github.com/orkeghenfranklyn)
+- **LinkedIn:** [linkedin.com/in/franklyn-orkeghen-34bb40441](https://www.linkedin.com/in/franklyn-orkeghen-34bb40441/)
+- **Email:** [orkeghenfranklyn@gmail.com](mailto:orkeghenfranklyn@gmail.com)
+  
 
 <p align="center"><sub>Sample brand and fictional data. Built with n8n, Google Gemini and Vapi.</sub></p>
