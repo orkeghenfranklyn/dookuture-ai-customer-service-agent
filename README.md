@@ -1,4 +1,5 @@
-<h1 align="center">Dookuture AI Customer-Service Agent</h1>
+ttps://img.shields.io/badge/LLM-Google%20Gemini-4285F4" alt="Google Gemini">
+  <img src="https://im<h1 align="center">Dookuture AI Customer-Service Agent</h1>
 
 <p align="center">
   <b>One AI agent on three channels: web chat, Telegram and voice. It answers only from approved facts, hands off to a human when it can't, and logs every lead and booking.</b>
@@ -8,8 +9,7 @@
   <img src="https://img.shields.io/badge/Chatbot%20tests-15%2F15%20passed-brightgreen" alt="Chatbot tests: 15/15 passed">
   <img src="https://img.shields.io/badge/Channels-Web%20%7C%20Telegram%20%7C%20Voice-blue" alt="Channels: web, Telegram, voice">
   <img src="https://img.shields.io/badge/n8n-workflows-EA4B71" alt="n8n">
-  <img src="https://img.shields.io/badge/LLM-Google%20Gemini-4285F4" alt="Google Gemini">
-  <img src="https://img.shields.io/badge/Voice-Vapi-black" alt="Vapi">
+  <img src="hg.shields.io/badge/Voice-Vapi-black" alt="Vapi">
   <img src="https://img.shields.io/badge/Built%20on-Android%20tablet-lightgrey" alt="Built on an Android tablet">
 </p>
 
